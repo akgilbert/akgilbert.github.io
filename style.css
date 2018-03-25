@@ -105,8 +105,5 @@ ul.navigation li {
 ul.navigation a {
   display: block;
   padding: 10px;
-  /*text-decoration: none; --would remove link underline*/
+  text-decoration: none;  /*removes link underline*/
 }
-
-
-/* hello i am a comment*/
