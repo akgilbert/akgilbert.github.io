@@ -10,8 +10,6 @@ body {
     background-color: lightgrey;
 }
 
-
-
 h1,h2,h3,h4,h5,h6 {
   font-family: Oswald,Times; /*font was added in the head of the html. and found online here: https://fonts.google.com/?query=oswa&selection.family=Oswald*/
   text-align: center ;
